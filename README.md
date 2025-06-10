@@ -1,10 +1,17 @@
-# BobRossGo
+# BobRossQuotes-Go
 Learning Go through the wisdom of Bob Ross
 
-Complete plagarization of a Python project: https://github.com/kz6fittycent/BobRossQuotes
+Complete plagarization of kz6fittycent's Python project: https://github.com/kz6fittycent/BobRossQuotes
 
-Docker Build
+## Docker:
+To Run in Docker
 
-docker build -t bobross-go:latest -f Dockerfile .
-docker run -d -p 8080:8080 bobross-go:latest
+Build the image: `docker build -t bobross-go:latest -f Dockerfile .`
+Run the container: `docker run -d -p 8080:8080 bobross-go:latest`
+Then point your browser at localhost:8080
+
+## Just run the code:
+
+From your terminal: 
+`go run .`
 
