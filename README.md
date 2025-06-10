@@ -11,7 +11,7 @@ Build the image: `docker build -t bobross-go:latest -f Dockerfile .`
 
 Run the container: `docker run -d -p 8080:8080 bobross-go:latest`
 
-Then point your browser at localhost:8080
+Then point your browser to localhost:8080
 
 ## Just run the code:
 
