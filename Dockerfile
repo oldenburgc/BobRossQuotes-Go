@@ -25,8 +25,6 @@ COPY --from=build-stage /app/data/ /data/
 
 EXPOSE 8080
 
-#USER ec2-user:ec2-user
-
 ENTRYPOINT ["/bobross-go"]
 
 HEALTHCHECK --interval=5s --timeout=3s \
