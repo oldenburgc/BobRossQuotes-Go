@@ -17,3 +17,4 @@ Then point your browser at localhost:8080
 From your terminal: 
 `go run .`
 
+And point your browser to localhost:8080
