@@ -3,6 +3,7 @@ Learning Go through the wisdom of Bob Ross
 
 Complete plagarization of kz6fittycent's Python project: https://github.com/kz6fittycent/BobRossQuotes
 
+![BobRossGo](docs/images/Screenshot.png)
 ## Docker:
 To Run in Docker
 
