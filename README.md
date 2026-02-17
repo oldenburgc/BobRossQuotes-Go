@@ -1,5 +1,5 @@
 # BobRossQuotes-Go
-Learning Go through the wisdom of Bob Ross
+Learning Go through the wisdom of Bob Ross.
 
 Complete plagarization of kz6fittycent's Python project: https://github.com/kz6fittycent/BobRossQuotes
 
